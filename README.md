@@ -11,6 +11,6 @@ The main files are:
    
 The first one is implementation that actually run the code on IBMQ's machine and the second is the preliminary code I used running on QASM simulator.
 
-Additional pdf file is available, explaining the main idea of the project.
+Additional pdf file is available, explaining the main idea of the project, and acknowledging the research papers the project is based on.
 Dont hesitate to contact me on any matter: nadavba138@gmail.com
 
